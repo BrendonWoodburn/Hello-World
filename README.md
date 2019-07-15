@@ -1,6 +1,4 @@
 # Hello-World
-Just another repository
-
 
 Hello GitHub <3
 
